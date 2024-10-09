@@ -63,4 +63,5 @@ Open `localhost:3000` to access the application!😎
 discord:robinhood0995
 telegram:@FortuneRobinhood21
 ```
+Thanks.
 
