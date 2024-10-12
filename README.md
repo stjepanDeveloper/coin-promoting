@@ -58,10 +58,4 @@ npm start
 
 Open `localhost:3000` to access the application!😎
 
-### Contact
-```sh
-discord:robinhood0995
-telegram:@FortuneRobinhood21
-```
-Thanks.
 
