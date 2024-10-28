@@ -34,7 +34,7 @@
     "react-router": "^5.2.1",
     "react-toastify": "^5.5.0",
     "request": "^2.88.2",
-    "sequelize": "^5.16.0",
+    "sequelize": "^6.37.5",
     "sqlite3": "^5.1.6",
     "@baublet/use-global-state": "^1.1.0",
     "@emotion/react": "^11.10.4",
